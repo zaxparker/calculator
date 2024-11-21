@@ -1,0 +1,3 @@
+create a variables for number 1 and number 2 and operator
+Build operate function allow three arguments to be passed in (number 1, operator, number 2)
+on submit run function operate
